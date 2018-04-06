@@ -1,0 +1,1 @@
+java.exe -Xms512m -Xmx1g -cp bin;../MyUtils/bin C_HikingDeer
